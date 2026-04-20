@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lokalizace a formuláře</string>
+    <string name="list_title">Seznam produktů</string>
+    <string name="register">Registrace</string>
+
+    <!-- Чешский список продуктов -->
+    <string-array name="products_array">
+        <item>Jablko</item>
+        <item>Banán</item>
+        <item>Pomeranč</item>
+        <item>Mléko</item>
+        <item>Chléb</item>
+        <item>Sýr</item>
+    </string-array>
+</resources>
